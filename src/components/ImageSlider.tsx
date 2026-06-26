@@ -6,10 +6,10 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 import slide1 from "../assets/slider1.png";
 import slide2 from "../assets/slider2.png";
 import slide3 from "../assets/slider3.png";
-import slide4 from "../assets/slider1.png";
-import slide5 from "../assets/slider2.png";
+import slide4 from "../assets/slider4.png";
+import slide5 from "../assets/slider5.png";
 import slide6 from "../assets/slider3.png";
-import slide7 from "../assets/slider1.png";
+import slide7 from "../assets/slider6.png";
 
 const SLIDES = [
   {
