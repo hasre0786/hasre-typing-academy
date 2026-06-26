@@ -5,16 +5,16 @@ import { ArrowRight, Sparkles, Users, Flame, Leaf, Cpu, Crown } from "lucide-rea
 import directorImg from "@/assets/director.jpg";
 
 const SKILLS = [
-  { label: "Typing Speed", value: 95 },
+  { label: "Typing Speed", value: 75 },
   { label: "Typing Accuracy", value: 98 },
-  { label: "Computer Knowledge", value: 90 },
-  { label: "Teaching Experience", value: 92 },
-  { label: "Student Support", value: 100 },
+  { label: "Computer Knowledge", value: 60 },
+  { label: "Teaching Experience", value: 55 },
+  { label: "Student Support", value: 99 },
 ];
 
 const ACHIEVEMENTS = [
-  { Icon: Users, value: 5000, suffix: "+", label: "Students Guided" },
-  { Icon: Sparkles, value: 100, suffix: "+", label: "Daily Learners" },
+  { Icon: Users, value: 50, suffix: "+", label: "Students Guided" },
+  { Icon: Sparkles, value: 20, suffix: "+", label: "Daily Learners" },
   { Icon: Leaf, value: 90, suffix: "", label: "Easy Levels" },
   { Icon: Cpu, value: 90, suffix: "", label: "Normal Levels" },
   { Icon: Flame, value: 90, suffix: "", label: "Hard Levels" },
