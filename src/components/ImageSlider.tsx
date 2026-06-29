@@ -14,31 +14,31 @@ import slide7 from "../assets/slider6.png";
 const SLIDES = [
   {
     url: slide1,
-    caption: "Master the Keyboard, Master the Future",
+    // caption: "Master the Keyboard, Master the Future",
   },
   {
     url: slide2,
-    caption: "Hands-On Typing Practice",
+    // caption: "Hands-On Typing Practice",
   },
   {
     url: slide3,
-    caption: "Boost Your Typing Speed",
+    // caption: "Boost Your Typing Speed",
   },
   {
     url: slide4,
-    caption: "Professional Typing Training",
+    // caption: "Professional Typing Training",
   },
   {
     url: slide5,
-    caption: "Computer Lab for Every Student",
+    // caption: "Computer Lab for Every Student",
   },
   {
     url: slide6,
-    caption: "Online Typing Education",
+    // caption: "Online Typing Education",
   },
   {
     url: slide7,
-    caption: "Young Learners, Big Dreams",
+    // caption: "Young Learners, Big Dreams",
   },
 ];
 
