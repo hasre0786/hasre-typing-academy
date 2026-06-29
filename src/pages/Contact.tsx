@@ -4,9 +4,9 @@ import { Phone, Mail, MapPin, Send } from "lucide-react";
 import { toast } from "sonner";
 
 const ITEMS = [
-  { Icon: Phone, label: "Phone", value: "+91 00000 00000" },
-  { Icon: Mail, label: "Email", value: "info@hasresuccess.in" },
-  { Icon: MapPin, label: "Address", value: "Bihar, India" },
+  { Icon: Phone, label: "Phone", value: "+91 7480036643" },
+  { Icon: Mail, label: "Email", value: "hasre0127@gmail.com" },
+  { Icon: MapPin, label: "Address", value: "Chiraiya, Bihar" },
 ];
 
 export default function Contact() {

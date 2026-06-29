@@ -4,7 +4,7 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 
 // Assets images import
 import slide1 from "../assets/slider1.png";
-import slide2 from "../assets/slider2.png";
+import slide2 from "../assets/slider9.png";
 import slide3 from "../assets/slider3.png";
 import slide4 from "../assets/slider4.png";
 import slide5 from "../assets/slider5.png";
